@@ -1,16 +1,15 @@
-## Hi there 👋
+### Hi, I'm Aboorva 👋
 
-<!--
-**Aboorva03/Aboorva03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Python Backend Developer | Django & DRF | Transitioning from PHP/Laravel
 
-Here are some ideas to get you started:
+- 🔭 Currently building REST APIs and backend systems with Django & DRF
+- 🌱 Deepening my Python backend skills after starting out in PHP/Laravel
+- 💼 Experience with JWT auth, RBAC, KYC workflows, and fintech onboarding systems in production
+- 📫 Reach me at rmaboo1403@gmail.com or https://linkedin.com/in/aboorvar03
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Projects
+- [Job Application Tracker API](https://github.com/Aboorva03/job-application-board) — Django REST API with JWT auth, RBAC, and an ATS resume-matching engine
+- [Employee Management API](https://github.com/Aboorva03/employee-management-api) — Django REST API with JWT auth and role-based permissions
+
+#### Skills
+Python · Django · Django REST Framework · Flask · PostgreSQL · MySQL · MongoDB · JWT · REST APIs · AWS S3 · Azure Blob Storage · CI/CD
